@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/WebexCommunity/webex-go-sdk/v1/webexsdk"
+	"github.com/WebexCommunity/webex-go-sdk/webexsdk"
 )
 
 // AttachmentAction represents a Webex attachment action

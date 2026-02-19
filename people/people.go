@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/WebexCommunity/webex-go-sdk/v1/webexsdk"
+	"github.com/WebexCommunity/webex-go-sdk/webexsdk"
 )
 
 // BatchResponse represents the response from a batch people request

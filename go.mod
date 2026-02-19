@@ -1,4 +1,4 @@
-module github.com/WebexCommunity/webex-go-sdk/v1
+module github.com/WebexCommunity/webex-go-sdk
 
 go 1.20
 

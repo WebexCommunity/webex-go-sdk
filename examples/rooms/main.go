@@ -11,8 +11,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/WebexCommunity/webex-go-sdk/v1"
-	"github.com/WebexCommunity/webex-go-sdk/v1/rooms"
+	"github.com/WebexCommunity/webex-go-sdk"
+	"github.com/WebexCommunity/webex-go-sdk/rooms"
 )
 
 func main() {

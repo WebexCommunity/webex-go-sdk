@@ -12,10 +12,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/WebexCommunity/webex-go-sdk/v1"
-	"github.com/WebexCommunity/webex-go-sdk/v1/conversation"
-	"github.com/WebexCommunity/webex-go-sdk/v1/device"
-	"github.com/WebexCommunity/webex-go-sdk/v1/mercury"
+	"github.com/WebexCommunity/webex-go-sdk"
+	"github.com/WebexCommunity/webex-go-sdk/conversation"
+	"github.com/WebexCommunity/webex-go-sdk/device"
+	"github.com/WebexCommunity/webex-go-sdk/mercury"
 )
 
 func main() {

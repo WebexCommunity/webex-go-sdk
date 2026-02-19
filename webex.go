@@ -7,19 +7,19 @@
 package webex
 
 import (
-	"github.com/WebexCommunity/webex-go-sdk/v1/attachmentactions"
-	"github.com/WebexCommunity/webex-go-sdk/v1/device"
-	"github.com/WebexCommunity/webex-go-sdk/v1/events"
-	"github.com/WebexCommunity/webex-go-sdk/v1/memberships"
-	"github.com/WebexCommunity/webex-go-sdk/v1/mercury"
-	"github.com/WebexCommunity/webex-go-sdk/v1/messages"
-	"github.com/WebexCommunity/webex-go-sdk/v1/people"
-	"github.com/WebexCommunity/webex-go-sdk/v1/rooms"
-	"github.com/WebexCommunity/webex-go-sdk/v1/roomtabs"
-	"github.com/WebexCommunity/webex-go-sdk/v1/teammemberships"
-	"github.com/WebexCommunity/webex-go-sdk/v1/teams"
-	"github.com/WebexCommunity/webex-go-sdk/v1/webexsdk"
-	"github.com/WebexCommunity/webex-go-sdk/v1/webhooks"
+	"github.com/WebexCommunity/webex-go-sdk/attachmentactions"
+	"github.com/WebexCommunity/webex-go-sdk/device"
+	"github.com/WebexCommunity/webex-go-sdk/events"
+	"github.com/WebexCommunity/webex-go-sdk/memberships"
+	"github.com/WebexCommunity/webex-go-sdk/mercury"
+	"github.com/WebexCommunity/webex-go-sdk/messages"
+	"github.com/WebexCommunity/webex-go-sdk/people"
+	"github.com/WebexCommunity/webex-go-sdk/rooms"
+	"github.com/WebexCommunity/webex-go-sdk/roomtabs"
+	"github.com/WebexCommunity/webex-go-sdk/teammemberships"
+	"github.com/WebexCommunity/webex-go-sdk/teams"
+	"github.com/WebexCommunity/webex-go-sdk/webexsdk"
+	"github.com/WebexCommunity/webex-go-sdk/webhooks"
 )
 
 // WebexClient is the top-level client for the Webex API

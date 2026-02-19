@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/WebexCommunity/webex-go-sdk/v1/webexsdk"
+	"github.com/WebexCommunity/webex-go-sdk/webexsdk"
 )
 
 // Event represents a Webex event
