@@ -5,7 +5,7 @@ go 1.25.0
 require github.com/gorilla/websocket v1.5.3
 
 require (
-	github.com/go-jose/go-jose/v4 v4.1.3
+	github.com/go-jose/go-jose/v4 v4.1.6
 	github.com/google/uuid v1.6.0
 	github.com/pion/interceptor v0.1.44
 	github.com/pion/rtp v1.10.1
